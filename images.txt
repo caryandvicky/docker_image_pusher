@@ -1,6 +1,5 @@
-mysql
+mysql:latest
 metabase/metabase:latest
 tdengine/tdengine:latest
-nodered/node-red
+nodered/node-red:latest
 emqx/emqx:5.7.0
-grafana
