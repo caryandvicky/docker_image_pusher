@@ -2,4 +2,5 @@ metabase/metabase:latest
 tdengine/tdengine:latest
 nodered/node-red:latest
 emqx/emqx:5.7.0
-docker.io/library/mysql:latest
+mysql:latest
+nginx
