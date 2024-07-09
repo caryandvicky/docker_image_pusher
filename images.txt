@@ -4,3 +4,4 @@ nodered/node-red:latest
 emqx/emqx:5.7.0
 mysql:latest
 nginx
+frangoteam/fuxa:latest
