@@ -6,3 +6,4 @@ mysql:latest
 nginx
 frangoteam/fuxa:latest
 mcr.microsoft.com/mssql/server:2019-latest
+b3log/siyuan
