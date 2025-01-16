@@ -7,3 +7,4 @@ nginx
 frangoteam/fuxa:latest
 mcr.microsoft.com/mssql/server:2019-latest
 b3log/siyuan
+portainer/portainer-ce:2.21.5
