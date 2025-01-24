@@ -10,3 +10,4 @@ b3log/siyuan
 portainer/portainer-ce:2.21.5
 portainer/agent:2.21.5
 amancevice/superset
+canner/wren-ai-service
