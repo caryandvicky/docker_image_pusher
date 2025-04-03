@@ -5,7 +5,6 @@ emqx/emqx:5.7.0
 mysql:latest
 nginx
 frangoteam/fuxa:latest
-mcr.microsoft.com/mssql/server:2019-latest
 b3log/siyuan
 portainer/portainer-ce:2.21.5
 portainer/agent:2.21.5
