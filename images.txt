@@ -1,1 +1,4 @@
-mysql:8.4.5
+apache/superset-cache:3.10-slim-bookworm
+nginx:latest
+redis:7
+postgres:16
