@@ -1,4 +1,1 @@
-apache/superset-cache:3.10-slim-bookworm
-nginx:latest
-redis:7
-postgres:16
+amancevice/superset:4.1.2025.3.26
