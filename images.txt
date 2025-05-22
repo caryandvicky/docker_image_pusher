@@ -1,1 +1,1 @@
-apache/nifi:latest
+postgres:17.5
