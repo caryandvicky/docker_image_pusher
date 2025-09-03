@@ -1,1 +1,1 @@
-nextcloud:31.0.8
+cloudreve/cloudreve:4.7.0
