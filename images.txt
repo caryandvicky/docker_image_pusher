@@ -1,1 +1,1 @@
-cloudreve/cloudreve:4.7.0
+grafana/grafana:12.1.1-ubuntu
