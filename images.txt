@@ -1,1 +1,1 @@
-grafana/grafana:12.1.1-ubuntu
+prom/prometheus:v3.5.0
