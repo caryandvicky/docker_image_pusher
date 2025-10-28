@@ -1,1 +1,1 @@
-prom/prometheus:v3.5.0
+ubuntu/node:18-24.04_edge
