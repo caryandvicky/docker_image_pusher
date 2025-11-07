@@ -1,1 +1,1 @@
-nodered/node-red:4.1.1-22-arm64v8
+--platform linux/arm64 nodered/node-red:4.1.1-22
