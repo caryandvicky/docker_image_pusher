@@ -1,1 +1,1 @@
---platform linux/arm64/v8 postgres:14.19
+--platform linux/arm64/v8 nginx:1.29.3-perl
