@@ -1,2 +1,2 @@
 #--platform linux/arm64/v8  emqx:5.8.8
-arm64v8/redis:8.2-bookworm
+--platform linux/arm64/v8 redis:8.2-bookworm
