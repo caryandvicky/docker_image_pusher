@@ -3,4 +3,4 @@
 #--platform linux/arm64/v8 node:24.11.1-alpine3.22
 #node:18-alpine
 #n8nio/n8n:1.122.1
-n8nio/n8n:1.122.1-arm64
+--platform linux/arm64/v8 n8nio/n8n:1.122.1
