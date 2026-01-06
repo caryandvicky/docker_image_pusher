@@ -3,4 +3,5 @@
 #--platform linux/arm64/v8 node:24.11.1-alpine3.22
 #node:18-alpine
 #n8nio/n8n:1.122.1
---platform linux/arm64/v8 n8nio/n8n:1.122.1
+#--platform linux/arm64/v8 n8nio/n8n:1.122.1
+quackerd/frp:0.63.0
