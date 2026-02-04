@@ -5,14 +5,4 @@
 #n8nio/n8n:1.122.1
 #--platform linux/arm64/v8 n8nio/n8n:1.122.1
 #quackerd/frp:0.63.0
-ghcr.io/bitwarden/mssql:latest
-ghcr.io/bitwarden/web:latest
-ghcr.io/bitwarden/attachments:latest
-ghcr.io/bitwarden/api:latest
-ghcr.io/bitwarden/identity:latest
-ghcr.io/bitwarden/sso:latest
-ghcr.io/bitwarden/admin:latest
-ghcr.io/bitwarden/icons:latest
-ghcr.io/bitwarden/notifications:latest
-ghcr.io/bitwarden/events:latest
-ghcr.io/bitwarden/nginx:latest
+nodered/node-red:4.1.4-22
