@@ -8,4 +8,4 @@
 #nodered/node-red:4.1.4-22
 #tdengine/tsdb:3.4.0.2
 #python:3.12-slim
-dhi.io/pgvector:0.8-pg16
+pgvector/pgvector:pg16
