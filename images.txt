@@ -9,4 +9,4 @@
 #tdengine/tsdb:3.4.0.2
 #python:3.12-slim
 #pgvector/pgvector:pg16
-tdengine/tdengine:3.3.6
+tdengine/tdengine:3.3.6.13
