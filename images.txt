@@ -19,4 +19,5 @@
 #neo4j:5.26-community
 #nginx:alpine
 #python:3.11-slim-bookworm
-langgenius/dify-plugin-daemon:0.0.7-local
+#langgenius/dify-plugin-daemon:0.0.7-local
+rclone/rclone:1.75.0
