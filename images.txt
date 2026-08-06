@@ -22,3 +22,4 @@
 #langgenius/dify-plugin-daemon:0.0.7-local
 #rclone/rclone:1.75.0
 qdrant/qdrant:v1.19.0
+mintplexlabs/anythingllm:1.15.0
