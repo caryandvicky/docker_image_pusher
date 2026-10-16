@@ -24,4 +24,5 @@
 #nodered/node-red:4.1.14-22
 #mintplexlabs/anythingllm:1.15.0
 #rustdesk/rustdesk-server:1.1.16
-b3log/siyuan:v3.8.5
+#b3log/siyuan:v3.8.5
+metabase/metabase:v0.64-lts
