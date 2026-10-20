@@ -26,4 +26,5 @@
 #rustdesk/rustdesk-server:1.1.16
 #b3log/siyuan:v3.8.5
 #metabase/metabase:v0.64-lts
---platform linux/arm64/v8 nodered/node-red:4.1.16-22
+#--platform linux/arm64/v8 nodered/node-red:4.1.16-22
+--platform linux/arm64/v8 tdengine/tsdb:3.3.6.0
